@@ -1,4 +1,4 @@
-﻿etmana 2 → Sprint 2.
+s﻿etmana 2 → Sprint 2.
 
 Crea un algoritme i el programa que l'implementa
 
